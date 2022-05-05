@@ -1,3 +1,3 @@
 # urna-eletronica-c
  
- ![Demonstration](res/1.gif)
+ ![](res/1.gif)
