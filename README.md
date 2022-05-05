@@ -1,3 +1,3 @@
 # urna-eletronica-c
 
-![1](https://user-images.githubusercontent.com/54927022/167041077-6051c260-fbd7-4527-a9dd-0e167858f588.gif)
+![1](https://user-images.githubusercontent.com/54927022/167043463-a59b8acc-574e-473d-97ad-88ba18a2e238.gif)
